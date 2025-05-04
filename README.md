@@ -1,27 +1,3 @@
-# final-web-project
-
-# My Simple Blog
-
-A basic multi-page blog website created as a final project to demonstrate HTML, CSS, and JavaScript skills.
-
-## Overview
-
-This project implements a simple blog with the following features:
-
--   **Multi-Page Navigation:** Includes a homepage, a sample blog post page, and an about page, all accessible through a navigation menu.
--   **Responsive Design:** The layout adapts to different screen sizes, including a functional mobile navigation menu.
--   **JavaScript Interactivity:** Features a mobile navigation menu that toggles on smaller screens and a basic "like" button on the blog post page.
-
-## Technologies Used
-
--   **HTML5:** For structuring the content of the web pages, using semantic elements for better organization and accessibility.
--   **CSS3:** For styling the website, including the layout, typography, and responsive design using media queries and transitions for smoother interactions.
--   **JavaScript:** For adding interactivity, such as toggling the mobile navigation menu and handling basic button clicks.
-
-## File Structure
-Coding partner
-Markdown
-
 # My Simple Blog
 
 A basic multi-page blog website created as a final project to demonstrate HTML, CSS, and JavaScript skills.
